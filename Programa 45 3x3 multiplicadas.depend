@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429053724 source:c:\users\luis\dropbox\inco\programación\programa 45 3x3 multiplicadas\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
